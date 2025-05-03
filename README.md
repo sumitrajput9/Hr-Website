@@ -9,6 +9,9 @@ cd hr-cloud-frontend
 
 Install dependencies:
 npm install
+and 
+start command 
+npm run dev
 
 
 Add placeholder images:
